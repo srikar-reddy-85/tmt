@@ -30,7 +30,8 @@
 ---
 
 ## Planned Features 🌟
-Help us improve the project by contributing to the following:
+Help us improve the project by contributing to the following: 
+- currently it only runs on linux systems properly i want it to run on any terminal 
 - **Improved UI**: Add more aesthetic terminal decorations, dynamic themes, or animations.
 - **Leaderboard Integration**: Track and save scores locally or online to compete with friends.
 - **Multiplayer Typing Test**: Challenge others in real-time.
@@ -44,7 +45,7 @@ Help us improve the project by contributing to the following:
 ## Prerequisites 🛠️
 
 - **Java Development Kit (JDK)**: Version 11 or later.
-- **Maven.
+- Maven.
 - **Lanterna Library**: Already included in the project dependencies.
 
 ---
